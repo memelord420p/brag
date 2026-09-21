@@ -112,8 +112,11 @@ When music is selected, include a compact `Music cue guidance` section: read the
 **Read:** The Hyperframes domain skills — `hyperframes-core`, `hyperframes-animation`, `hyperframes-creative`, `hyperframes-keyframes`, `hyperframes-cli`. /brag is its own workflow: do not enter the `hyperframes` entry-point intent interview or route into its generic promo / launch-video workflow.
 **Read:** [references/step-3-compose.md](references/step-3-compose.md)
 **Read:** [references/audio.md](references/audio.md)
+**Read:** [references/composition-lessons.md](references/composition-lessons.md) — hard-won readability, cursor, and map-sidebar rules (apply on every run).
 
 Write the composition brief and use Hyperframes to create the video implementation in `<output-dir>/composition/`.
+
+When the product is map/list UI with a chrome sidebar in screenshots, follow `composition-lessons.md`: reframe or multi-shot — do not pan a baked sidebar hoping highlights clear it. Always ship a visible click cursor on pick beats and a brand + tagline open (not a dead logo hold).
 
 `/brag` owns the product angle, source material, storyboard, tone, format, audio selection, music cue guidance, and delivery expectations. Hyperframes owns the concrete composition structure, exact animation timing, animation mechanics, runtime choices, linting rules, and render workflow.
 
